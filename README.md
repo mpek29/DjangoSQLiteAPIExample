@@ -23,8 +23,8 @@ This project is a minimalist example of a Django API that allows access to an SQ
 ### 🛠️ Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/django-sqlite-api.git
-   cd django-sqlite-api
+   git clone https://github.com/mpek29/DjangoSQLiteAPIExample.git
+   cd .\DjangoSQLiteAPIExample\
    ```
 
 2. **Create a virtual environment**:
