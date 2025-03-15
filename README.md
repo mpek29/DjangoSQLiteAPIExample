@@ -1,6 +1,8 @@
 # DjangoSQLiteAPIExample
 
 ## 🚀 Overview
+![Main Preview](assets/img/main.png)
+
 This project is a minimalist example of a Django API that allows access to an SQLite database. The API offers two access modes:
 - 📂 **Unauthenticated Access**: Some parts of the database are accessible without authentication.
 - 🔑 **Authenticated Access via Token**: Some data requires authentication using a token.
